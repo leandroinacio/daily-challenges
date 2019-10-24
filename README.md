@@ -1,6 +1,6 @@
 # daily-challenges
 
-Each folder is a different challenged resolved.
+Each folder is a different challenge resolved.
 
 To run the scripts
 ```bash
